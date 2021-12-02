@@ -1,0 +1,28 @@
+C:\Users\Ana\Desktop\CRUD DOTNET\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ana\Desktop\CRUD DOTNET\bin\Debug\net6.0\appsettings.json
+C:\Users\Ana\Desktop\CRUD DOTNET\bin\Debug\net6.0\CRUD DOTNET.staticwebassets.runtime.json
+C:\Users\Ana\Desktop\CRUD DOTNET\bin\Debug\net6.0\CRUD DOTNET.exe
+C:\Users\Ana\Desktop\CRUD DOTNET\bin\Debug\net6.0\CRUD DOTNET.deps.json
+C:\Users\Ana\Desktop\CRUD DOTNET\bin\Debug\net6.0\CRUD DOTNET.runtimeconfig.json
+C:\Users\Ana\Desktop\CRUD DOTNET\bin\Debug\net6.0\CRUD DOTNET.dll
+C:\Users\Ana\Desktop\CRUD DOTNET\bin\Debug\net6.0\ref\CRUD DOTNET.dll
+C:\Users\Ana\Desktop\CRUD DOTNET\bin\Debug\net6.0\CRUD DOTNET.pdb
+C:\Users\Ana\Desktop\CRUD DOTNET\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.csproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.AssemblyInfoInputs.cache
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.AssemblyInfo.cs
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.RazorAssemblyInfo.cache
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.RazorAssemblyInfo.cs
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\scopedcss\bundle\CRUD DOTNET.styles.css
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\scopedcss\projectbundle\CRUD DOTNET.bundle.scp.css
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.csproj.CopyComplete
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.dll
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\ref\CRUD DOTNET.dll
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.pdb
+C:\Users\Ana\Desktop\CRUD DOTNET\obj\Debug\net6.0\CRUD DOTNET.genruntimeconfig.cache
